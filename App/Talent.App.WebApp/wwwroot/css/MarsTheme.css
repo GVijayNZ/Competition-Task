@@ -10,7 +10,11 @@
     height: 350px;
     background-color: black;
 }
-
+/*new css*/
+.myClass{
+    padding-left:50px;
+    padding-top:25px;
+}
 .header-text {
     padding-top: 50px;
 }
@@ -152,6 +156,7 @@
 .nav-secondary {
     margin-bottom: 2%
 }
+
 /* Tiny Modal Width */
 @media only screen and (max-width: 767px) {
     .ui.tiny.modal {
